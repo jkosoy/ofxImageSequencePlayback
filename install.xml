@@ -1,0 +1,21 @@
+<install>
+	<name>ofxImageSequencePlayback</name>
+	<version>0.01</version>
+	<author>Charlie Whitney, Daniel Schiebel, Jamie Kosoy</author>
+	<url>http://jkosoy.com, http://redpaperheart.com</url>
+	<requires>ofxImageSequence</requires>
+	
+	<add>
+		<src>
+			<folder name="addons/ofxImageSequencePlayback/src">
+				<file>../../../addons/ofxImageSequencePlayback/src/ofxImageSequencePlayback.h</file>
+				<file>../../../addons/ofxImageSequencePlayback/src/ofxImageSequencePlayback.cpp</file>
+			</folder>
+		</src>
+
+		<include>
+			<path>../../../addons/ofxImageSequencePlayback/src</path>
+		</include>
+	</add>
+	
+</install>
