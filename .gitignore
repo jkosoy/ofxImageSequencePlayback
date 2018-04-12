@@ -11,6 +11,8 @@ xcuserdata/
 #builds
 build/
 obj/
+bin/
+!bin/data
 *.o
 *.app
 
