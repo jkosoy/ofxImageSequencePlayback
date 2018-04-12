@@ -1,0 +1,2 @@
+ofxImageSequence
+ofxImageSequencePlayback
